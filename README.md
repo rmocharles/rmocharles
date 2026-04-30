@@ -1,3 +1,4 @@
+/*
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ksm5753's%20GitHub&fontSize=70)
 
 ### 👋 안녕하세요! 게임 개발자 강석문입니다.
@@ -39,5 +40,6 @@
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksm5753&theme=dracula" />
 </p>
+*/
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
